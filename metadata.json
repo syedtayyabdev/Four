@@ -1,0 +1,8 @@
+{
+  "name": "FOUR - Smash Burger & Eats",
+  "description": "Premium fast-food delivery app for FOUR restaurant featuring smash burgers, loaded fries, and more with a dark, moody aesthetic.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
